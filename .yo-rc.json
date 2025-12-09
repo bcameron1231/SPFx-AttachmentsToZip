@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "sp-fx-zip-list-attachments",
+    "libraryId": "b82effc9-d340-4552-9ae8-8e56ac573f9c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-fx-zip-list-attachments",
+    "solutionShortDescription": "sp-fx-zip-list-attachments description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
